@@ -5,6 +5,7 @@ import Main from '../pages/main'
 import Repositorio from '../pages/repositorio'
 
 const Routes = () => {
+  console.log(process.env.REACT_APP_API_URL)
   return (
     <BrowserRouter>
       <Switch>
