@@ -3,7 +3,6 @@
 <p align="center">
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6c6945e848c4f7a8a8205785b59ebb8)](https://app.codacy.com/manual/RMiike/my-git-repos-reactjs?utm_source=github.com&utm_medium=referral&utm_content=RMiike/my-git-repos-reactjs&utm_campaign=Badge_Grade_Dashboard)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a881119e-a2ad-4ebe-b395-882e856173bd/deploy-status)](https://app.netlify.com/sites/gitreposreact/deploys)
   ![Netlify](https://img.shields.io/netlify/a881119e-a2ad-4ebe-b395-882e856173bd)
   ![GitHub repo size](https://img.shields.io/github/repo-size/RMiike/my-git-repos-reactjs)
   ![GitHub last commit](https://img.shields.io/github/last-commit/RMiike/my-git-repos-reactjs)
@@ -12,7 +11,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="React Git Repos" src="" />
+    <img alt="React Git Repos" src="https://raw.githubusercontent.com/RMiike/my-git-repos-reactjs/master/src/assets/gitgif.gif" />
 </h1>
 
 <h4 align="center">
