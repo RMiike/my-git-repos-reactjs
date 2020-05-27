@@ -4,7 +4,8 @@
 
    
   [![GitHub issues](https://img.shields.io/github/issues/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/issues)
-  [![GitHub forks](https://img.shields.io/github/forks/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/network)
+
+
   [![GitHub license](https://img.shields.io/github/license/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/blob/master/LICENSE)
 
 <h1 align="center">
