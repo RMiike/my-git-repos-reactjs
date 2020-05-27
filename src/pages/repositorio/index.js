@@ -31,23 +31,23 @@ const Repositorio = ({ match }) => {
     handleLoad()
   }, [match.params.repositorio])
 
-  useEffect(()=>{
-    async function handleLoadIssue(){
+  useEffect(() => {
+    async function handleLoadIssue() {
       const nomeRepo = decodeURIComponent(match.params.repositorio)
-      const resp = await api.get(`/repos/${nomeRepo}/issues`,{
-        params:{
+      const resp = await api.get(`/repos/${nomeRepo}/issues`, {
+        params: {
           state: 'open',
           page,
-          per_page:5
+          per_page: 5
         }
       })
       setIssues(resp.data)
     }
     handleLoadIssue()
-  },[page])
+  }, [page])
 
-  function handlePage(action){
-    setPage(action === 'back' ? page- 1 : page +1)
+  function handlePage(action) {
+    setPage(action === 'back' ? page - 1 : page + 1)
   }
   if (loading) {
     return (
@@ -88,8 +88,8 @@ const Repositorio = ({ match }) => {
         }
       </ul>
       <PaginationStyle>
-        <button disabled={page < 2} onClick={()=>{handlePage('back')}} >Voltar</button>
-        <button  onClick={()=>{handlePage('next')}} >Próxima</button>
+        <button type='button' disabled={page < 2} onClick={() => { handlePage('back') }} >Voltar</button>
+        <button type='button' onClick={() => { handlePage('next') }} >Próxima</button>
       </PaginationStyle>
     </Container>
   );

@@ -52,23 +52,23 @@ const Main = () => {
     setRepositorio(find)
   }, [repositorio])
 
-  
-  useEffect(()=>{
+
+  useEffect(() => {
     const repoStorage = localStorage.getItem('repos')
-    if(repoStorage){
+    if (repoStorage) {
       setRepositorio(JSON.parse(repoStorage))
     }
-  },[])
-  
-  useEffect(()=>{
+  }, [])
+
+  useEffect(() => {
     localStorage.setItem('repos', JSON.stringify(repositorio))
 
-  },[repositorio])
+  }, [repositorio])
 
   return (
     <Container>
       <h1> <FaGithub size={25} /> Meus Repositórios</h1>
-      <form onSubmit={handleSubmit}  error={alerta}>
+      <form onSubmit={handleSubmit} error={alerta}>
         <input type="text" placeholder='Adicionar Repositórios' value={newRepo} onChange={handleChange} />
         <StyledButton loading={loading ? 1 : 0} >
           {
