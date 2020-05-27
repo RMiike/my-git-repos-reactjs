@@ -1,7 +1,8 @@
 #in progress
 
 <p align="center">
-  
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a881119e-a2ad-4ebe-b395-882e856173bd/deploy-status)](https://app.netlify.com/sites/gitreposreact/deploys)
   [![GitHub issues](https://img.shields.io/github/issues/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/issues)
   [![GitHub license](https://img.shields.io/github/license/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/blob/master/LICENSE)
 
