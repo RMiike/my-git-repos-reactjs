@@ -1,7 +1,15 @@
 #in progress
 
+<p align="center">
+
+   
+  [![GitHub issues](https://img.shields.io/github/issues/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/issues)
+
+
+  [![GitHub license](https://img.shields.io/github/license/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/blob/master/LICENSE)
+
 <h1 align="center">
-    <img alt="React My Git Repos" src="" />
+    <img alt="React Git Repos" src="" />
 </h1>
 
 <h4 align="center">
