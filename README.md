@@ -1,7 +1,12 @@
 #in progress
 
 <p align="center">
-  
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6c6945e848c4f7a8a8205785b59ebb8)](https://app.codacy.com/manual/RMiike/my-git-repos-reactjs?utm_source=github.com&utm_medium=referral&utm_content=RMiike/my-git-repos-reactjs&utm_campaign=Badge_Grade_Dashboard)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a881119e-a2ad-4ebe-b395-882e856173bd/deploy-status)](https://app.netlify.com/sites/gitreposreact/deploys)
+  ![Netlify](https://img.shields.io/netlify/a881119e-a2ad-4ebe-b395-882e856173bd)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RMiike/my-git-repos-reactjs)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/RMiike/my-git-repos-reactjs)
   [![GitHub issues](https://img.shields.io/github/issues/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/issues)
   [![GitHub license](https://img.shields.io/github/license/RMiike/my-git-repos-reactjs)](https://github.com/RMiike/my-git-repos-reactjs/blob/master/LICENSE)
 
@@ -43,7 +48,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/RMiike/my-git-repos-reactjs
 
 # Go into the repository
-$ cd dev-house
+$ cd my-git-repos-reactjs
 
 # Install dependencies
 $ yarn install
