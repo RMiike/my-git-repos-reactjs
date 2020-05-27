@@ -21,7 +21,6 @@ input, button, textarea{
 
 }
 
-.button {
-  cursor: ponter;
-
+button {
+  cursor: pointer;
 }

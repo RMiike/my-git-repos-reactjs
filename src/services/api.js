@@ -1,7 +1,7 @@
-import api from 'axios'
+import axios from 'axios'
 
-api.create({
-  baseURL: ''
+const api = axios.create({
+  baseURL: 'https://api.github.com/'
 })
 
 export default api
