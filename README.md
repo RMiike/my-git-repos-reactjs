@@ -1,5 +1,3 @@
-#in progress
-
 <p align="center">
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6c6945e848c4f7a8a8205785b59ebb8)](https://app.codacy.com/manual/RMiike/my-git-repos-reactjs?utm_source=github.com&utm_medium=referral&utm_content=RMiike/my-git-repos-reactjs&utm_campaign=Badge_Grade_Dashboard)
